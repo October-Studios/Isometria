@@ -1,0 +1,19 @@
+Initialize engine version: 4.6.0b17 (2d43734a3870)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 7.15.11.8267]
+    Renderer: NVIDIA Quadro FX 570
+    Vendor:   NVIDIA
+    VRAM:     628 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Cameron\Documents\Isometria\Isometria_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Cameron\Documents\Isometria\Isometria_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Cameron\Documents\Isometria\Isometria_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Cameron\Documents\Isometria\Isometria_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Cameron\Documents\Isometria\Isometria_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Cameron\Documents\Isometria\Isometria_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.239 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
